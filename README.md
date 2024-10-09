@@ -23,7 +23,7 @@ Below is a sample of the data format for the competition. Each entry should foll
 
 ### Data Fields
 
-- **content**: This field contains a question and answer pair related to Satoshi Nakamoto or Bitcoin. It should be written in a clear and concise manner, focusing on relevant concepts or principles.
+- **content**: This field contains a question and answer pair related to Satoshi Nakamoto，Bitcoin (BTC), and the BTC ecosystem. It should be written in a clear and concise manner, focusing on relevant concepts or principles.
 
 ## Submission Guidelines
 Participants should submit their datasets in JSON format following the sample structure provided above. Ensure that each entry is relevant and accurately represents information about Satoshi Nakamoto, Bitcoin, and related technologies.
